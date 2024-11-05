@@ -11,4 +11,4 @@ let peopleName = [];
 people.forEach((people) => peopleName.push(people.name));
 
 console.log("snack-2");
-console.log(peopleName);
+console.log(`${peopleName[0]}, ${peopleName[1]}, ${peopleName[2]}`);

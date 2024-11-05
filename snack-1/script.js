@@ -4,4 +4,4 @@ const names = ["Edoardo", "Simone", "Francesco"];
 // Risultato: 'Edoardo', 'Simone', 'Francesco'
 
 console.log("snack-1");
-console.log(names[0], names[1], names[2]);
+console.log(`${names[0]}, ${names[1]}, ${names[2]}`);
