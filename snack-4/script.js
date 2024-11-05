@@ -12,4 +12,5 @@ const authorName = [];
 posts.forEach((posts) => {
   authorName.push(posts.author);
 });
+console.log("snack-4");
 console.log(authorName);
